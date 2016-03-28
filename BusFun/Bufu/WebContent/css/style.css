@@ -1,0 +1,158 @@
+.button {
+	color: white;
+	border: 2px solid white;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-right: 20px;
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 3px;
+}
+
+.bt {
+	color: white;
+	border: 2px solid none;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	margin-left: 20px;
+}
+
+.header {
+	float: top;
+	padding: 20px;
+}
+
+.head-img {
+	background-image: url(../images/d.jpg);
+	height: 100vh;
+	width: 100vw;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.center {
+	background-color: transparent;
+	position: fixed;
+	border-radius: 5px;
+	margin: 50px;
+	top: 30%;
+	left: 35%;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#login-div {
+	position: absolute;
+	height: 100vh;
+	width: 100vw;
+	top: 0;
+	left: 0;
+	display: none;
+}
+
+.btct {
+	color: #fff;
+	background: #47A9EB;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, .3);
+	border-radius: 3px;
+}
+
+.menu {
+	position: relative;
+	height: 80vh;
+	width: 25vw;
+	margin-top: 80px;
+	color: white;
+	
+}
+#infomation{
+	display: none;
+}
+.prof {
+	background-color: transparent;
+	position: relative;
+	margin: 5px 0 0 50px;
+	padding: 5px; text-align : center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	text-align: left;
+}
+
+.contrl {
+	background-color: transparent;
+	margin: 5px; padding : 5px;
+	margin-left:60px;
+	text-align: left;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	padding: 5px;
+}
+
+.icon {
+	width: 40px;
+	height: 40px;
+	top: 10%;
+	margin: 5px;
+}
+
+.table {
+	background-color: transparent;
+	border: thin;
+	border-radius: 5px;
+}
+
+.logo {
+	color: white;
+	border: 2px solid none;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 32px;
+	font-family: 'Open Sans', sans-serif;
+	margin-left: 20px;
+	border-radius: 3px;
+}
+
+.text {
+	color: white;
+}
+
+.map {
+	top: 15%;
+	left: 25%;
+	padding: 5px;
+	position: absolute;
+}
+
+.content {
+	background-color: white;
+	position: absolute;
+	width: 100vw;
+	height: 20px;
+	top: 100%;
+	left: 0;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	text-align: center;
+}
